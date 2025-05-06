@@ -1,6 +1,6 @@
 const profile = {
-    name: "Bahar",
-    surname: "Pashayeva",
+    name: "CEYHUN",
+    surname: "QASIMOV",
     specialization: "Information security student",
     contact: {
         phone: "+123-456-7890",
